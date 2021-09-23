@@ -7,3 +7,5 @@ To use this yourself you need to share your own project on the Scratch Website a
 6. Replace the undefined variables (they are all pretty self explanatory). Make sure you are using a different account from the one that owns the project.
 7. Alternatively, define them.
 8. Run the Scratch Project, then the Python Project. You should be able to see the variable changing on both ends, and when it equals a subset of HTTP status codes (there were too many) Sprite1 will say them.
+
+Note that by contributing to this repository, you agree to release your contribution under the GNU General Public License, version 3 or later.
